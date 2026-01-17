@@ -4,7 +4,7 @@ Landing page for k61.dev projects, deployed to www.k61.dev.
 
 ## Projects
 
-- [URL Shortener](https://url.k61.dev) - Fast, free URL shortener with analytics
+- [URL Shortener](https://url.k61.dev) - Fast, free URL shortener with analytics ([source](https://github.com/kurtzeborn/url-shortener))
 
 ## Development
 
