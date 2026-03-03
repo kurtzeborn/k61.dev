@@ -123,6 +123,40 @@ header {
   border-radius: 20px;
 }
 
+.section-heading {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  opacity: 0.8;
+  margin-bottom: 20px;
+  letter-spacing: 0.5px;
+}
+
+.projects.wip {
+  margin-bottom: 40px;
+}
+
+.wip-card {
+  opacity: 0.75;
+  padding: 20px 25px;
+}
+
+.wip-card h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.wip-card p {
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
+.wip-card .btn,
+.wip-card .btn-secondary {
+  padding: 8px 18px;
+  font-size: 14px;
+}
+
 footer {
   text-align: center;
   padding: 20px;
